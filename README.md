@@ -9,7 +9,7 @@
 - Then run the following on your terminal
 
 ```bash
-$ git clone https://github.com/M3ndux/vidly-api-node.git
+$ git clone https://github.com/justiceevan/vidly-api-node.git
 $ cd vidly-api-node
 $ npm install
 $ node seed.js
@@ -19,7 +19,7 @@ $ node index.js
 - To run the app in the development mode, run on your terminal
 
 ```bash
-$ git clone https://github.com/M3ndux/Vidly-React.git
+$ git clone https://github.com/justiceevan/Vidly-React.git
 $ cd Vidly-React
 $ npm install
 $ npm start

@@ -6,7 +6,7 @@ import NavBar from "./components/navBar";
 import Movies from "./components/movies";
 import Customers from "./components/customers";
 import Rentals from "./components/rentals";
-import Profile from "./components/UserProfile";
+import Profile from "./components/userProfile";
 import NotFound from "./components/not-found";
 import MovieForm from "./components/movieForm";
 import LoginForm from "./components/loginForm";

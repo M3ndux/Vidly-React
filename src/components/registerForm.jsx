@@ -11,7 +11,7 @@ class RegisterForm extends Form {
   };
 
   schema = {
-    username: Joi.string().email().required().label("Username"),
+    username: Joi.string().email().required().label("Email"),
     password: Joi.string().min(5).required().label("Password"),
     name: Joi.string().required().label("Name"),
   };
@@ -35,7 +35,7 @@ class RegisterForm extends Form {
       <div>
         <h1>Register</h1>
         <form onSubmit={this.handleSubmit}>
-          {this.renderInput("username", "Username")}
+          {this.renderInput("username", "Email")}
           {this.renderInput("password", "Password", "password")}
           {this.renderInput("name", "Name")}
           {this.renderButton("Register")}

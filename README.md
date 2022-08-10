@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/Language-Javascript-green.svg)
 
-- A react front-end for the vidly-api-node project
+- A react front-end for the vidly-api-node api
 
 - To run the backend first start your mongod service
 

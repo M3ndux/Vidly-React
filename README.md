@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/Language-Javascript-green.svg)
 
-- You'll require to first start your mongod service to run the backend for the app
+- You'll require to start your mongod service to run the backend for the app
 
 - Run the backend by executing the following:
 

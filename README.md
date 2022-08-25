@@ -4,6 +4,10 @@
 
 - This is a simple movie rental react app. 
 
+- [http://radiant-citadel-79213.herokuapp.com](click here) to have a look at the app.
+
+- The admin credentials are: 
+
 - To run the app, you'll require to start your mongod service.
 
 - Then run the backend by executing the following:

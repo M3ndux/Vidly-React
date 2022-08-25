@@ -2,11 +2,9 @@
 
 ![License: MIT](https://img.shields.io/badge/Language-Javascript-green.svg)
 
-- A movie rental react app
+- You'll require to first start your mongod service to run the backend for the app
 
-- To run the backend first start your mongod service
-
-- Then run the following on your terminal
+- Run the backend by executing the following:
 
 ```bash
 $ git clone https://github.com/justiceevan/vidly-api-node.git
@@ -16,7 +14,7 @@ $ node seed.js
 $ node index.js
 ```
 
-- To run the app in the development mode, run on your terminal
+- To run the app in the development mode:
 
 ```bash
 $ git clone https://github.com/justiceevan/Vidly-React.git
@@ -25,6 +23,6 @@ $ npm install
 $ npm start
 ```
 
-- Open [http://localhost:3000](http://localhost:3000) to view it on your browser.
+- The app will run on [http://localhost:3000](http://localhost:3000)
 
 Happy coding

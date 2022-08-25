@@ -2,11 +2,11 @@
 
 ![License: MIT](https://img.shields.io/badge/Language-Javascript-green.svg)
 
-- A movie rental react app
+- This is a simple movie rental react app. 
 
-- You'll require to start your mongod service to run the backend for the app
+- To run the app, you'll require to start your mongod service.
 
-- Run the backend by executing the following:
+- Then run the backend by executing the following:
 
 ```bash
 $ git clone https://github.com/justiceevan/vidly-api-node.git

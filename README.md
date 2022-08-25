@@ -2,11 +2,9 @@
 
 ![License: MIT](https://img.shields.io/badge/Language-Javascript-green.svg)
 
-- This is a simple movie rental react app. 
+- This is a simple movie rental app. 
 
-- [http://radiant-citadel-79213.herokuapp.com](click here) to have a look at the app.
-
-- The admin credentials are: 
+- The app is hosted [here](http://radiant-citadel-79213.herokuapp.com)
 
 - To run the app, you'll require to start your mongod service.
 
@@ -23,8 +21,8 @@ $ node index.js
 - To run the app in the development mode:
 
 ```bash
-$ git clone https://github.com/justiceevan/Vidly-React.git
-$ cd Vidly-React
+$ git clone https://github.com/justiceevan/vidly_react.git
+$ cd vidly_react
 $ npm install
 $ npm start
 ```
